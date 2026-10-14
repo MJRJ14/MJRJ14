@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Michael Jeffery
-- 👀 I’m interested in customizing and creating API's
-- 🌱 I’m currently learning C#, SQL, C++, and JS!
-- 💞️ I’m looking to collaborate on anything that comes my way!
-- 📫 How to reach me... reach out through my profile email; if that doesn't work, add me on discord: bonusround_
+- 👋 Hi, I’m Michael
+- 👀 I’m interested things that challenge me!
+- 🌱 I’m currently learning LLM generation.
+- 💞️ I’m looking for something fun to do!
+- 📫 Reach me on discord messaging my account bonusround_.
 
 <!---
 MJRJ14/MJRJ14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
